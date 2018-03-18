@@ -1,7 +1,7 @@
 # btc_predictor
 This project uses LSTM to predict BTC prices
 
-This is out from the program
+This is output from the program
 
 ![BTC Price prediction](btc_price_prediction.png?raw=true "BTC Price Prediction")
 
