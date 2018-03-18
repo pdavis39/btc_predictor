@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 20 19:21:50 2017
-# based on work done by yucedagonurcan hack on github - https://github.com/yucedagonurcan/RNN_LSTM_for_Google_Stocks/blob/master/RNN_LSTM_Google_Stocks.py
+# based on work done by yucedagonurcan - https://github.com/yucedagonurcan/RNN_LSTM_for_Google_Stocks/blob/master/RNN_LSTM_Google_Stocks.py
 @author: pdavis39
 """
 #import lib and data
