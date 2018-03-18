@@ -3,7 +3,7 @@
 """
 Created on Wed Sep 20 19:21:50 2017
 
-@author: paul.davis@us.ibm.com
+@author: pdavis39
 """
 #import lib and data
 import numpy as np
