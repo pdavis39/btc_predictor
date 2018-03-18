@@ -1,9 +1,9 @@
 # btc_predictor
 This project uses LSTM to predict BTC prices
 
-This is 
+This is out from the program
 
-![BTC Price prediction](/btc_predictor/blob/master/btc_price_prediction.png?raw=true "BTC Price Prediction")
+![BTC Price prediction](btc_price_prediction.png?raw=true "BTC Price Prediction")
 
 
 ## To generate the bitcoin test data, I forked a project that enables access to a number of crypto currency APIs
