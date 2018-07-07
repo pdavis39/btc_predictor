@@ -1,5 +1,17 @@
 # btc_predictor
 This project uses LSTM to predict BTC prices
+## Overview
+After playing with RNN LSTM for synthetic text generation as well as image spoofing I discovered there is a usage for RNN LSTM in prediction.  I thought it might be fun to try to build a bitcoin market predictor using RNN LSTM to see how well it does.  
+ 
+My initial hypothesis was it would not do well based on BTC’s market volatility.  I was surprised by the results. 
+ 
+To conduct the experiment, I used my NVIDIA Jetson TX2 GPU computer and the software is a combination of python’s, numpy, keras, and tensorflow. 
+ 
+Lucky for me Coindesk has an API for BTC current and historical market data.  My training data for the model uses a range from 9/1/2013 -> 12/31/2017 and the test data was from 2/1/2018 -> 3/12/2018.   I ensured there was no overlap between the training data and the test data.
+ 
+It takes ~ 3 1/2 minutes to generate the results which you can see for yourself in the  figure below.  
+
+## Results
 
 This is output from the program
 
