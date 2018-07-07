@@ -18,7 +18,8 @@ This is output from the program
 ![BTC Price prediction](btc_price_prediction.png?raw=true "BTC Price Prediction")
 
 
-## To generate the bitcoin test data, I forked a project that enables access to a number of crypto currency APIs
+##  The code
+To generate the bitcoin test data, I forked a project that enables access to a number of crypto currency APIs
 
 test_data_btc.py is a program that geneates my test and training data
 
